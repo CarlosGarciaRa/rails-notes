@@ -1,4 +1,3 @@
-# RVM RUBIES
 RVM basics commands
 - [rvm list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-list)
 - [rvm use](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-use)
@@ -12,6 +11,7 @@ RVM basics commands
 - [gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
 - [gem install](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#gem-install)
 
+# RVM RUBIES
 ## RVM LIST
 List Ruby interpreters you've already installed
 ```
