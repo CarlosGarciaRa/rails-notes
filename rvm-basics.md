@@ -1,16 +1,16 @@
 # RVM RUBIES
 RVM basics commands
--[rvm list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-list)
--[rvm use](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-use)
--[rvm uninstall](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-uninstall)
--[rvm list gemsets](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-all-gemsets)
--[rvm gemset list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gemsets-for-current-interpreter)
--[rvm gemset use](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#use-gemset)
--[rvm gemset create](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#create-gemset)
--[rvm gemset delete](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#delete-gemset)
--[gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
--[gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
--[gem install](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#gem-install)
+- [rvm list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-list)
+- [rvm use](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-use)
+- [rvm uninstall](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#rvm-uninstall)
+- [rvm list gemsets](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-all-gemsets)
+- [rvm gemset list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gemsets-for-current-interpreter)
+- [rvm gemset use](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#use-gemset)
+- [rvm gemset create](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#create-gemset)
+- [rvm gemset delete](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#delete-gemset)
+- [gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
+- [gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
+- [gem install](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#gem-install)
 
 ## RVM LIST
 List Ruby interpreters you've already installed
