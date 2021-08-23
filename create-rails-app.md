@@ -1,3 +1,10 @@
+# CREATE RAILS APP
+Basic commands to create a rails app in api-only mode
+- [rails version](https://github.com/CarlosGarciaRa/rails-notes/blob/main/create-rails-app.md#rails-version)
+- [rails new](https://github.com/CarlosGarciaRa/rails-notes/blob/main/create-rails-app.md#create-rails-app-only-api)
+- [install gem with gemfile](https://github.com/CarlosGarciaRa/rails-notes/blob/main/create-rails-app.md#install-gems-with-gemfile)
+- [run rails server](https://github.com/CarlosGarciaRa/rails-notes/blob/main/create-rails-app.md#run-rails-server)
+- [run tests](https://github.com/CarlosGarciaRa/rails-notes/blob/main/create-rails-app.md#run-rspec-tests)
 ## RAILS VERSION
 Puts rails version
 ```
