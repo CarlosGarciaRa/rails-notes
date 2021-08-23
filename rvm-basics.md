@@ -8,7 +8,6 @@ RVM basics commands
 - [rvm gemset create](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#create-gemset)
 - [rvm gemset delete](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#delete-gemset)
 - [gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
-- [gem list](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#list-gems)
 - [gem install](https://github.com/CarlosGarciaRa/rails-notes/blob/main/rvm-basics.md#gem-install)
 
 # RVM RUBIES
