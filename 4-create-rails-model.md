@@ -1,6 +1,6 @@
 # RAILS MODEL
-- [creating rails model](https://github.com/CarlosGarciaRa/rails-notes/new/main#creating-a-rails-model)
-- [running migrations](https://github.com/CarlosGarciaRa/rails-notes/new/main#running-migrations)
+- [creating rails model](https://github.com/CarlosGarciaRa/rails-notes/blob/main/4-create-rails-model.md#creating-a-rails-model)
+- [running migrations](https://github.com/CarlosGarciaRa/rails-notes/blob/main/4-create-rails-model.md#running-migrations)
 
 ## CREATING A RAILS MODEL
 > A Rails Model is a Ruby class that can add database records
