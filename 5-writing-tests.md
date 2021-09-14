@@ -1,7 +1,7 @@
 # WRITING TESTS
 
-## WRITING RSPEC TESTS
-We create our RSPEC tests under the directory `spec/models/model_name_spec.rb`
+## WRITING FACTORIES
+We create our factory under the directory `spec/factories/model_name.rb`
 
 ```
 FactoryBot.define do
@@ -14,10 +14,9 @@ end
 
 ```
 
-We can run our test with the command `rspec`, this will output the failing tests. Passing the parameter `--format=documentation` gives us information about all tests.
 
 ## WRITING RSPEC TESTS
-We create our RSPEC tests under the directory `spec/factories/model_name.rb`
+We create our RSPEC tests under the directory `spec/models/model_name_spec.rb`
 
 ```
 RSpec.describe Article, type: :model do
@@ -36,3 +35,12 @@ end
 ```
 
 We can run our test with the command `rspec`, this will output the failing tests. Passing the parameter `--format=documentation` gives us information about all tests.
+
+## WRITING VALIDATIONS
+We create our validations under the directory `app/models/model_name.rb`
+
+```
+class ModelName < ApplicationRecord
+  validates :attribute, presence:true
+end
+```
